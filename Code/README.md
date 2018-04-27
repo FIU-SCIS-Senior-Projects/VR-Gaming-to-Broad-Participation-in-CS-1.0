@@ -4,4 +4,4 @@ The source code and content for VR-Gaming to Broad Participation in CS is availa
 
 https://github.com/OpenHID/VRForEducation
 
-If any issues should arise please contact Dr. Francisco Ortega
+If any issues should arise please contact Dr. Francisco Ortega @ fortega@cis.fiu.edu
